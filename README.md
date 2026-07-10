@@ -9,7 +9,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/dibya0809?label=Followers&style=flat-square&color=7dd3fc" />
+<a href="https://github.com/dibya0809/dibya0809">
+<img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
+</a>
 <img src="https://img.shields.io/github/followers/dibya0809?label=Followers&style=flat-square&color=7dd3fc" />
 
 
