@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=dibya0809&fontSize=60&animation=twinkling&fontColor=ffffff&desc=Student&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Dibya Jyoti Tripathy &fontSize=60&animation=twinkling&fontColor=ffffff&desc=Student&descAlignY=55&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=✍️+WRITE+YOUR+SKILLS%2FPROJECTS+HERE;e.g.+Learning+Java+%7C+Building+Cool+Stuff" alt="Typing SVG" />
