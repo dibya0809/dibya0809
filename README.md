@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Dibya Jyoti Tripathy &fontSize=60&animation=twinkling&fontColor=ffffff&desc=Student&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Dibya&fontSize=60&animation=twinkling&fontColor=ffffff&desc=Student&descAlignY=55&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=✍️+WRITE+YOUR+SKILLS%2FPROJECTS+HERE;e.g.+Learning+Java+%7C+Building+Cool+Stuff" alt="Typing SVG" />
@@ -9,8 +9,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=dibya0809&color=7dd3fc&style=flat-square&label=Profile+Views" />
 <img src="https://img.shields.io/github/followers/dibya0809?label=Followers&style=flat-square&color=7dd3fc" />
+<img src="https://img.shields.io/github/followers/dibya0809?label=Followers&style=flat-square&color=7dd3fc" />
+
 
 </div>
 
@@ -52,7 +53,7 @@ const dibya0809 = {
 | ✍️ e.g. Database | ✍️ Write here |
 
 🔗 **Live:** ✍️ Write your live link here (or remove this line if none)
-📂 **Code:** [github.com/dibya0809/your-repo-name](https://github.com/dibya0809/your-repo-name)
+📂 **Code:** <img src=" https://img.shields.io/badge/github-repo-blue?logo=github" />(https://github.com/dibya0809/your-repo-name)
 
 ---
 
@@ -68,7 +69,7 @@ const dibya0809 = {
 | ✍️ e.g. Backend | ✍️ Write here |
 
 🔗 **Live:** ✍️ Write your live link here (or remove this line if none)
-📂 **Code:** [github.com/dibya0809/your-second-repo-name](https://github.com/dibya0809/your-second-repo-name)
+📂 **Code:**  https://img.shields.io/badge/github-repo-blue?logo=github (https://github.com/dibya0809/your-second-repo-name)
 
 ---
 
