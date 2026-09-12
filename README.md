@@ -1,19 +1,17 @@
-## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Dibya&fontSize=60&animation=twinkling&fontColor=ffffff&desc=Student&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Dibya&fontSize=60&animation=twinkling&fontColor=ffffff&desc=Aspiring%20Java%20%2F%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=✍️+WRITE+YOUR+SKILLS%2FPROJECTS+HERE;e.g.+Learning+Java+%7C+Building+Cool+Stuff" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Learning+Java+%26+Spring+Boot;Building+towards+a+Full+Stack+role+in+Bhubaneswar" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://github.com/dibya0809/dibya0809">
+<a href="https://github.com/dibya0809">
 <img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
 </a>
 <img src="https://img.shields.io/github/followers/dibya0809?label=Followers&style=flat-square&color=7dd3fc" />
-
 
 </div>
 
@@ -25,7 +23,10 @@
 const dibya0809 = {
   title: "Student",
   stack: [
-    "✍️ WRITE YOUR TECH STACK HERE (e.g. Java, Python, HTML/CSS, MySQL)"
+    "Java",
+    "Spring Boot",
+    "HTML / Markdown",
+    // ✍️ add more here, e.g. "MySQL", "Python", "CSS"
   ],
   launchedProjects: [
     "✍️ WRITE YOUR PROJECT NAMES HERE"
@@ -33,8 +34,8 @@ const dibya0809 = {
   certifications: [
     "✍️ WRITE YOUR CERTIFICATIONS HERE (or remove this field if none)"
   ],
-  status: "✍️ WRITE YOUR CURRENT STATUS HERE (e.g. Learning DSA, Open to internships)",
-  openTo: "✍️ WRITE WHAT YOU'RE OPEN TO HERE (e.g. Internships, Collaboration)"
+  status: "Learning Java & Spring Boot, building toward job-readiness",
+  openTo: "Full Stack / Java Developer internships and entry-level roles in Bhubaneswar, Odisha"
 };
 ```
 
@@ -46,7 +47,7 @@ const dibya0809 = {
 
 > ✍️ Write a one-line description of this project here
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=dibya0809&repo=your-repo-name&theme=nord&border_color=7dd3fc&text_color=ffffff&bg_color=0d1117)](https://github.com/dibya0809/dibya0809/))
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=dibya0809&repo=your-repo-name&theme=nord&border_color=7dd3fc&text_color=ffffff&bg_color=0d1117)](https://github.com/dibya0809/your-repo-name)
 
 | Layer | Technology |
 |---|---|
@@ -55,7 +56,7 @@ const dibya0809 = {
 | ✍️ e.g. Database | ✍️ Write here |
 
 🔗 **Live:** ✍️ Write your live link here (or remove this line if none)
-📂 **Code:** <img src=" https://img.shields.io/badge/github-repo-blue?logo=github" />(https://github.com/dibya0809/your-repo-name)
+📂 **Code:** [![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/dibya0809/your-repo-name)
 
 ---
 
@@ -71,37 +72,30 @@ const dibya0809 = {
 | ✍️ e.g. Backend | ✍️ Write here |
 
 🔗 **Live:** ✍️ Write your live link here (or remove this line if none)
-📂 **Code:**  https://img.shields.io/badge/github-repo-blue?logo=github (https://github.com/dibya0809/your-second-repo-name)
+📂 **Code:** [![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/dibya0809/your-second-repo-name)
 
 ---
 
 ## 🛠️ Tech Stack
 
-> ✍️ Below are placeholder icon rows grouped by category. Delete any category you don't use, and replace the icon list (comma-separated, lowercase, per [skillicons.dev](https://skillicons.dev)) with your actual stack.
-
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=REPLACE,WITH,YOUR,LANGUAGES" />
+<img src="https://skillicons.dev/icons?i=java,html,css" />
 
-**Frontend**
+**Backend / Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=REPLACE,WITH,YOUR,FRONTEND" />
+<img src="https://skillicons.dev/icons?i=spring" />
 
-**Backend / Infra**
+**Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=REPLACE,WITH,YOUR,BACKEND" />
-
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=REPLACE,WITH,YOUR,CLOUD" />
-
-**AI / Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=REPLACE,WITH,YOUR,AIDB" />
+<!-- ✍️ e.g. mysql, mongodb, postgres — replace/add once confirmed -->
+<img src="https://skillicons.dev/icons?i=REPLACE,WITH,YOUR,DATABASE" />
 
 **Dev Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=REPLACE,WITH,YOUR,TOOLS" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+> ✍️ Icon codes are from [skillicons.dev](https://skillicons.dev) — comma-separated, lowercase. Add/remove as your stack grows.
 
 ---
 
@@ -134,12 +128,11 @@ const dibya0809 = {
 
 <div align="center">
 
-<!-- ✍️ WRITE YOUR LINKS HERE. Below are inactive placeholder badges — replace the href and remove any rows for links you don't have (e.g. delete the Twitter line if you don't use it). -->
+<!-- ✍️ Replace the href in each badge with your real link, and delete any row you don't use -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-✍️_WRITE_YOUR_LINK_HERE-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE-ME)
-[![Twitter/X](https://img.shields.io/badge/X-✍️_WRITE_YOUR_LINK_HERE-7dd3fc?style=for-the-badge&logo=x&logoColor=white)](https://x.com/REPLACE-ME)
-[![Email](https://img.shields.io/badge/Email-✍️_WRITE_YOUR_EMAIL_HERE-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE-ME@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-✍️_WRITE_YOUR_LINK_HERE-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white)](https://REPLACE-ME.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE-ME)
+[![Email](https://img.shields.io/badge/Email-Contact-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE-ME@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white)](https://REPLACE-ME.dev)
 
 </div>
 
