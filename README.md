@@ -1,5 +1,7 @@
 <div align="center">
 
+
+
 <!-- ===================== HEADER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:7dd3fc&height=230&section=header&text=Dibya%20Jyoti%20Tripathy&fontSize=55&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Turning%20Idea%20Into%20Reality%20Through%20Code&descAlignY=58&descAlign=50&descSize=18" width="100%" />
 
@@ -7,6 +9,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Student+%7C+Learning+Java+%26+DSA;Building+Skills+for+a+Future+Tech+Career;Learning+Spring+Boot+%26+Backend+Development;Building+Projects+and+Strengthening+Problem+Solving" alt="Typing SVG" />
 </a>
 <br/>
+
+
+
 
 <!-- ===================== BADGES ===================== -->
 
@@ -21,6 +26,10 @@
 </a>
 
 </div>
+
+
+
+
 
 <!-- ===================== ABOUT ===================== -->
 
@@ -64,6 +73,10 @@
   <img src="https://img.shields.io/badge/FUTURE-0F172A?style=for-the-badge&logoColor=34D399" />
 </p>
 
+
+
+
+
 <!-- ===================== Project ===================== -->
 
 <!--## 🚀 Featured Projects
@@ -82,11 +95,19 @@
 
 --- -->
 
-## 🛠️ Tech Stack
+
+
+
+
+## 🛠️ Skills & Tools
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,html,css" />
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+
+**Core Concepts**
+<br/>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-0F172A?style=for-the-badge&logoColor=34D399" />
 
 **Backend / Frameworks**
 <br/>
@@ -94,16 +115,16 @@
 
 **Database**
 <br/>
-<!-- ✍️ e.g. mysql, mongodb, postgres — replace/add once confirmed -->
-<img src="https://skillicons.dev/icons?i=REPLACE,WITH,YOUR,DATABASE" />
+<img src="https://skillicons.dev/icons?i=mysql,oracle" />
 
-**Dev Tools**
+**Development Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Microsoft_Office-0F172A?style=for-the-badge&logo=microsoftoffice&logoColor=34D399" />
 
-> ✍️ Icon codes are from [skillicons.dev](https://skillicons.dev) — comma-separated, lowercase. Add/remove as your stack grows.
+<!-- ====================> ✍️ Icon codes are from [skillicons.dev](https://skillicons.dev) — comma-separated, lowercase. Add/remove as your stack grows. ==================== -->
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -115,6 +136,9 @@
 <img src="https://streak-stats.demolab.com?user=dibya0809&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%" />
 
 </div>
+
+
+
 
 ### 🏆 Trophies
 
@@ -132,36 +156,63 @@
 
 ## 🔗 Connect With Me
 
+<table align="center">
+<tr>
+<td align="center" width="100">
 
+<a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="42" height="42" alt="LinkedIn"/>
+</a>
+
+<br>
+<b>LinkedIn</b>
+
+</td>
+
+<td width="30"></td>
+
+<td align="center" width="100">
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/34D399" width="42" alt="Email"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+       width="42" height="42" alt="Email"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+<b>Email</b>
+
+</td>
+
+<td width="30"></td>
+
+<td align="center" width="100">
 
 <a href="https://YOUR_PORTFOLIO.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/googlechrome/34D399" width="42" alt="Portfolio"/>
+  <img src="https://skillicons.dev/icons?i=vercel"
+       width="42" height="42" alt="Portfolio"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br>
+<b>Portfolio</b>
+
+</td>
+
+<td width="30"></td>
+
+<td align="center" width="100">
 
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/34D399" width="42" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=github"
+       width="42" height="42" alt="GitHub"/>
 </a>
 
-<br><br>
+<br>
+<b>GitHub</b>
 
-<sub>
-  <b>LinkedIn</b>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <b>Email</b>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <b>Portfolio</b>
-  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <b>GitHub</b>
-</sub>
-
-</div>
-
+</td>
+</tr>
+</table>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=120&section=footer" width="100%" />
