@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:7dd3fc&height=220&section=header&text=Dibya%20Jyoti%20Tripathy&fontSize=55&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Turning%20Idea%20Into%20Reality%20Through%20Code&descAlignY=58&descAlign=50&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:7dd3fc&height=230&section=header&text=Dibya%20Jyoti%20Tripathy&fontSize=55&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Turning%20Idea%20Into%20Reality%20Through%20Code&descAlignY=58&descAlign=50&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Student+%7C+Learning+Java+%26+DSA;Building+Skills+for+a+Future+Tech+Career;Learning+Spring+Boot+%26+Backend+Development;Building+Projects+and+Strengthening+Problem+Solving" alt="Typing SVG" />
