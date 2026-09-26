@@ -1,79 +1,86 @@
 <div align="center">
 
+<!-- ===================== HEADER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:7dd3fc&height=230&section=header&text=Dibya%20Jyoti%20Tripathy&fontSize=55&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Turning%20Idea%20Into%20Reality%20Through%20Code&descAlignY=58&descAlign=50&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Student+%7C+Learning+Java+%26+DSA;Building+Skills+for+a+Future+Tech+Career;Learning+Spring+Boot+%26+Backend+Development;Building+Projects+and+Strengthening+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=34D399&center=true&vCenter=true&width=700&lines=Student+%7C+Learning+Java+%26+DSA;Building+Skills+for+a+Future+Tech+Career;Learning+Spring+Boot+%26+Backend+Development;Building+Projects+and+Strengthening+Problem+Solving" alt="Typing SVG" />
 </a>
 <br/>
 
+<!-- ===================== BADGES ===================== -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎓%20Student-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌱%20Learning-0f172a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️%20Building-0f172a?style=for-the-badge" />
+</p>
+
 <a href="https://github.com/dibya0809">
-<img src="https://img.shields.io/badge/github-repo-blue?logo=github" />
+<img src="https://img.shields.io/badge/github-repo-red?logo=github" />
 </a>
-<img src="https://img.shields.io/github/followers/dibya0809?label=Followers&style=flat-square&color=7dd3fc" />
 
 </div>
 
----
+<!-- ===================== ABOUT ===================== -->
 
-## 👋 Who I Am
+<h2 align="center">ABOUT ME</h2>
 
-```typescript
-const dibya0809 = {
-  title: "Student",
-  stack: [
-    "Java",
-    "Spring Boot",
-    "HTML / Markdown",
-    // ✍️ add more here, e.g. "MySQL", "Python", "CSS"
-  ],
-  launchedProjects: [
-    "✍️ WRITE YOUR PROJECT NAMES HERE"
-  ],
-  certifications: [
-    "✍️ WRITE YOUR CERTIFICATIONS HERE (or remove this field if none)"
-  ],
-  status: "Learning Java & Spring Boot, building toward job-readiness",
-  openTo: "Full Stack / Java Developer internships and entry-level roles in Bhubaneswar, Odisha"
-};
-```
+<p align="center">
+  <i>Curious mind. Continuous learner. Future engineer.</i>
+</p>
 
----
+<br>
 
-## 🚀 Featured Projects
+<p align="center">
+  I'm a student exploring technology and software development.
+  <br><br>
+  I enjoy understanding how things work, solving problems,
+  <br>
+  and turning what I learn into practical projects.
+  <br><br>
+  My goal is simple — build a strong foundation today
+  <br>
+  and grow into a skilled software engineer tomorrow.
+</p>
 
-### ✍️ WRITE YOUR PROJECT NAME HERE
+<br>
 
-> ✍️ Write a one-line description of this project here
+<p align="center">
+  <code>LEARN</code>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <code>BUILD</code>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <code>IMPROVE</code>
+  &nbsp;&nbsp;→&nbsp;&nbsp;
+  <code>GROW</code>
+</p>
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=dibya0809&repo=your-repo-name&theme=nord&border_color=7dd3fc&text_color=ffffff&bg_color=0d1117)](https://github.com/dibya0809/your-repo-name)
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-0F172A?style=for-the-badge&logoColor=34D399" />
+  <img src="https://img.shields.io/badge/PROGRESS-0F172A?style=for-the-badge&logoColor=34D399" />
+  <img src="https://img.shields.io/badge/FUTURE-0F172A?style=for-the-badge&logoColor=34D399" />
+</p>
+
+<!-- ===================== Project ===================== -->
+
+<!--## 🚀 Featured Projects
+
+> Practical projects built to learn, experiment, solve problems, and turn ideas into working solutions.
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=dibya0809&repo=your-repo-name&theme=nord&border_color=34D399&text_color=ffffff&bg_color=0d1117)](https://github.com/dibya0809/your-repo-name)
 
 | Layer | Technology |
 |---|---|
-| ✍️ e.g. Frontend | ✍️ Write here |
-| ✍️ e.g. Backend | ✍️ Write here |
-| ✍️ e.g. Database | ✍️ Write here |
+| Frontend | HTML, CSS, JavaScript |
+| Backend | Java / Spring Boot |
+| Database | MySQL |
 
-🔗 **Live:** ✍️ Write your live link here (or remove this line if none)
-📂 **Code:** [![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/dibya0809/your-repo-name)
+📂 **[View Source Code](https://github.com/dibya0809/your-repo-name)**
 
----
-
-### ✍️ WRITE YOUR SECOND PROJECT NAME HERE (or delete this whole subsection if you only have one)
-
-> ✍️ Write a one-line description of this project here
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=dibya0809&repo=your-second-repo-name&theme=nord&border_color=7dd3fc&text_color=ffffff&bg_color=0d1117)](https://github.com/dibya0809/your-second-repo-name)
-
-| Layer | Technology |
-|---|---|
-| ✍️ e.g. Frontend | ✍️ Write here |
-| ✍️ e.g. Backend | ✍️ Write here |
-
-🔗 **Live:** ✍️ Write your live link here (or remove this line if none)
-📂 **Code:** [![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/dibya0809/your-second-repo-name)
-
----
+--- -->
 
 ## 🛠️ Tech Stack
 
@@ -125,14 +132,36 @@ const dibya0809 = {
 
 ## 🔗 Connect With Me
 
-<div align="center">
 
-<!-- ✍️ Replace the href in each badge with your real link, and delete any row you don't use -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/REPLACE-ME)
-[![Email](https://img.shields.io/badge/Email-Contact-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:REPLACE-ME@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white)](https://REPLACE-ME.dev)
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/34D399" width="42" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://YOUR_PORTFOLIO.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/googlechrome/34D399" width="42" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/34D399" width="42" alt="GitHub"/>
+</a>
+
+<br><br>
+
+<sub>
+  <b>LinkedIn</b>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <b>Email</b>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <b>Portfolio</b>
+  &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
+  <b>GitHub</b>
+</sub>
 
 </div>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=120&section=footer" width="100%" />
