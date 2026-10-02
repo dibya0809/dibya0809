@@ -21,10 +21,6 @@
   <img src="https://img.shields.io/badge/🛠️%20Building-0f172a?style=for-the-badge" />
 </p>
 
-<a href="">
-<img src="https://img.shields.io/badge/github-repo-red?logo=github" />
-</a>
-
 </div>
 
 
