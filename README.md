@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/🛠️%20Building-0f172a?style=for-the-badge" />
 </p>
 
-<a href="https://github.com/dibya0809">
+<a href="">
 <img src="https://img.shields.io/badge/github-repo-red?logo=github" />
 </a>
 
@@ -202,7 +202,7 @@
 
 <td align="center" width="100">
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/dibya0809" target="_blank">
   <img src="https://skillicons.dev/icons?i=github"
        width="42" height="42" alt="GitHub"/>
 </a>
