@@ -1,4 +1,4 @@
-<div align="center">
+8<div align="center">
 
 
 
@@ -119,19 +119,6 @@
 
 
 <!-- ====================> ✍️ Icon codes are from [skillicons.dev](https://skillicons.dev) — comma-separated, lowercase. Add/remove as your stack grows. ==================== -->
-
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dibya0809&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=ffffff&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibya0809&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&bg_color=0d1117" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=dibya0809&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%" />
-
-</div>
 
 
 
