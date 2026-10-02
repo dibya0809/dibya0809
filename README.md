@@ -38,7 +38,7 @@
 <br>
 
 <p align="center">
-  I'm a student exploring technology and software development.
+  I'm a student exploring technology and new skill.
   <br><br>
   I enjoy understanding how things work, solving problems,
   <br>
@@ -46,7 +46,7 @@
   <br><br>
   My goal is simple — build a strong foundation today
   <br>
-  and grow into a skilled software engineer tomorrow.
+  and grow into a skilled engineer tomorrow.
 </p>
 
 <br>
