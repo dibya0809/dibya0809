@@ -120,7 +120,7 @@
 **Development Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Microsoft_Office-0F172A?style=for-the-badge&logo=microsoftoffice&logoColor=34D399" />
+
 
 <!-- ====================> ✍️ Icon codes are from [skillicons.dev](https://skillicons.dev) — comma-separated, lowercase. Add/remove as your stack grows. ==================== -->
 
